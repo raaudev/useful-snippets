@@ -31,4 +31,4 @@ Sinta-se à vontade para abrir uma PR com sugestões de novos snippets!
 
 ---
 
-Feito com 💛 por [Seu Nome]
+Feito com 💛 por [Raaudev]
